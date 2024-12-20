@@ -77,3 +77,5 @@ The complete arduino code can be found in the repository above.
 - Gautam Bidari 
 - Karthik Ganta
 - Vishwesh Kota
+
+https://community.silabs.com/s/share/a5UVm000000bse9MAA/the-winning-story-of-the-matter-challenge?language=en_US
